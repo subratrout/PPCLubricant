@@ -29,6 +29,7 @@
     font-weight: bold;
 }
 
+<<<<<<< HEAD
 #main-content{
     height: 600px;
 }
@@ -90,4 +91,35 @@
 #info h3 {
     color: #FACF47;
     font-size: 12px;
+=======
+#image-box {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.banner{
+    display: inline-block;
+    vertical-align: top;
+    height: 250px;
+    width: 220px;
+    background-color: white;
+    font-size: 14px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.banner p:nth-child(1) {
+    background-color: #FACF47;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    margin-top: -5px;
+    margin-left: -4px;
+    width: 220px;
+}
+
+.btn {
+    margin-top: -18px;
+    margin-left: 120px;
+>>>>>>> bottom
 }

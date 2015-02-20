@@ -29,7 +29,6 @@
     font-weight: bold;
 }
 
-<<<<<<< HEAD
 #main-content{
     height: 600px;
 }
@@ -91,7 +90,7 @@
 #info h3 {
     color: #FACF47;
     font-size: 12px;
-=======
+}
 #image-box {
     display: inline-block;
     margin-left: 10px;
@@ -121,5 +120,5 @@
 .btn {
     margin-top: -18px;
     margin-left: 120px;
->>>>>>> bottom
+
 }
